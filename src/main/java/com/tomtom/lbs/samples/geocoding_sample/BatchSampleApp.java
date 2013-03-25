@@ -262,5 +262,6 @@ public class BatchSampleApp
 	private static final String BATCH_GEOCODE_URL = "https://api.tomtom.com/lbs/geocoding/geocode_batch?format=json&key=";
 	
 	// the API used, must be a Geocoding API key, see http://developer.tomtom.com/ for more information.
+	// TODO: Change the API key entered here
 	private static final String API_KEY = "YOUR API KEY HERE";
 }

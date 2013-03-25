@@ -97,5 +97,6 @@ public class SingleCallSampleApp
 	private static final String GEOCODE_URL = "https://api.tomtom.com/lbs/geocoding/geocode?format=json&key=";
 	
 	// the API used, must be a Geocoding API key, see http://developer.tomtom.com/ for more information.
+	// TODO: Change the API key entered here
 	private static final String API_KEY = "YOUR API KEY HERE";
 }
